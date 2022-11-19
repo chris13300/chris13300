@@ -2,7 +2,7 @@
 - 👀 Since 2006, i develop vb tools with/without mdb/xml databases. Since 2015, I’m interested in chess engines.
 - 🌱 I’m currently training chess engines, previously i trained NNUE nets with "nodchip" release of Stockfish.
 - 💞️ I'm looking to collaborate with chess engine authors who had added a learning feature to their chess engines.
-- 📫 You can contact me at Outskirts Chess Forum (chris).
+- 📫 You can contact me at [Outskirts Chess Forum (chris)](http://outskirts.altervista.org/forum/index.php) or on [skype](https://join.skype.com/invite/f5b6uHeTYF2P)
 
 <!---
 chris13300/chris13300 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
