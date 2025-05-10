@@ -3,7 +3,7 @@
 - 🌱 I’m currently training chess engines, previously i trained NNUE nets with "nodchip" release of Stockfish.
 - 🌱 Generally, i post my results at [OpenChess Forum (deeds)](https://www.open-chess.org/index.php) and [Outskirts Chess Forum (deeds)](https://outskirts.altervista.org/forum/index.php).
 - 💞️ I'm looking to collaborate with chess engine authors who had added a learning feature to their chess engines.
-- 📫 You can contact me with [telegram](https://t.me/@DeeDs_TackTyk)
+- 📫 You can contact me with [telegram](https://t.me/DeeDs_TackTyk)
 
 <!---
 chris13300/chris13300 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
